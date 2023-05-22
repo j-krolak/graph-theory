@@ -18,7 +18,7 @@ for i in range(n):
 # Wypisujemy sąsiadów każdego wierzchołka
 for i in range(1, n):
     if len(G[i]) == 0:
-        print("Wiwior sam!")
+        print("Wiewior sam!")
     else:
         for v in G[i]:
             print(v, end=' ')
