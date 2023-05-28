@@ -1,5 +1,6 @@
 # Graph theory
-
+You have to install Computer Modern Font! <br/>
+https://www.fontsquirrel.com/fonts/computer-modern
 ### Lesson 1
 - Concept of graph
 - Use of graphs
